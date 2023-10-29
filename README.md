@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gumbogail
-- 👀 I’m interested in UI design,front end development and machine learning.
-- 🌱 I’m currently interning as a full stack developer 
+- 👋 Hi, I’m Abigail Gumbo
+- 👀 I’m interested in front end development 
+- 🌱 I’m currently studying at the University pf Namibia and an intern 
 - 💞️ I’m looking to collaborate on flutter projects for android mobile development
   
 
