@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abigail Gumbo
-- 👀 I’m interested in front end development 
-- 🌱 I’m currently studying at the University pf Namibia and an intern 
-- 💞️ I’m looking to collaborate on flutter projects for android mobile development
+- 👀 I’m interested in front end development , Ai , machine learning 
+- 🌱 I’m currently studying at the University pf Namibia and an intern
   
 
 <!---
