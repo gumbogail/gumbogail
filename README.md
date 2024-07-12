@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abigail Gumbo
 - 👀 I’m interested in front end development , Ai , machine learning 
-- 🌱 I’m currently studying at the University pf Namibia and an intern
+- 🌱 I’m currently studying at the University of Namibia 
   
 
 <!---
