@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abigail Gumbo
 - 👀 I’m interested in front end development , Ai , machine learning ,ui/ux
-- 🌱  
+- 🌱  i graduated from the university of Namibia with an honors degree in computer science
   
 
 <!---
